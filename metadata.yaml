@@ -14,6 +14,8 @@ creator:
     gutenberg_agent_id: '34598'
     url: http://www.gutenberg.org/2009/agents/34598
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/30418#Traditional-Nursery-Songs-of-EnglandWith-Pictures-by-Eminent-Modern-Artists
 gutenberg_issued: '2009-11-07'
 gutenberg_type: Text
 identifiers:
