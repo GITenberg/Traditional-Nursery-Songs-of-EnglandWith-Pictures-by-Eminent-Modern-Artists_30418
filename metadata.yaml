@@ -1,0 +1,31 @@
+_repo: Traditional-Nursery-Songs-of-EnglandWith-Pictures-by-Eminent-Modern-Artists_30418
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  editor:
+    agent_name: Cole, Henry, Sir
+    aliases:
+    - Summerly, Felix
+    - Summerly, F. (Felix)
+    birthdate: 1808
+    deathdate: 1882
+    gutenberg_agent_id: '34598'
+    url: http://www.gutenberg.org/2009/agents/34598
+description: ''
+gutenberg_issued: '2009-11-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '30418'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Nursery rhymes, English'
+- !lcc 'PZ'
+title: 'Traditional Nursery Songs of England
+
+  With Pictures by Eminent Modern Artists'
+url: http://www.gutenberg.org/ebooks/30418
